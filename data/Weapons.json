@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":1,"name":"恶作剧","note":"<Set Sts Data>\nSkill: 1,2,3,4,\nSkill 2: 6,5,8,9,10\nSkill 3: 0,11\n</Set Sts Data>","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":11,"name":"撒娇","note":"<Set Sts Data>\nSkill: 21,22,23,24\n</Set Sts Data>","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":8,"name":"いろいろ","note":"<Set Sts Data>\nSkill: 31,32,33,34\nSkill 2: 36,38\n</Set Sts Data>","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1}
+]
